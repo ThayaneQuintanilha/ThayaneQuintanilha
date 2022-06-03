@@ -11,7 +11,7 @@
 
 - 📫 Como me encontrar - **thayaniquintanilha2@gmail.com**
 
-- ⚡ Fato Legal - **Amo jogar jogos desde que eu tinha 10 anos.**
+- ⚡ Fato Legal - **Amo jogos, jogo desde os 10 anos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
