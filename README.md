@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou a Thay!</h1>
-<h3 align="center">Amando desenvolver e aprender ❤️</h3>
+<h3 align="center">Estou sempre me desenvolvendo e aprendendo ❤️</h3>
 <br>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/02/49/ef/0249efe4cc8e3c20094fc2d20aa58912.gif">
 
