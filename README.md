@@ -81,22 +81,22 @@ const Thayane = {
 
 <h3 align="center">GitHub Estatísticas 📈</h3>
 
-<a href="https://github.com/thayanequintanilha">
+<div align="center">
+ <a href="https://github.com/thayanequintanilha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanequintanilha&layout=compact&langs_count=16&theme=dracula" alt="thayanequintanilha" />
 </a>
-
-<a href="https://github.com/thayanequintanilha">
+</div>
+<br>
+<div align="center">
+ <a href="https://github.com/thayanequintanilha">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thayanequintanilha&show_icons=true&theme=dracula" alt="thayanequintanilha"/>
-</a>
+ </a>
+</div>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://instagram.com/quintanilhathay
-[linkedin]: https://www.linkedin.com/in/thayanequintanilha
-[gmail]: thayaniquintanilha2@gmail.com
+<br>
 
-#### Rede Sociais!
-
-📷 [instagram][instagram] **|**
-👔 [linkedin][linkedin]
+<div align="center">
+ <h3>Rede Sociais 🌐</h3>
+ <a href="https://linkedin.com/in/thayanequintanilha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thayanequintanilha" height="30" width="40" /></a>
+ <a href="https://instagram.com/quintanilhathay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quintanilhathay" height="30" width="40" /></a>
+</div>
