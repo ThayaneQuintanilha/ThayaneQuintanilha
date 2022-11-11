@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thayanequintanilha&label=Profile%20views&color=0e75b6&style=flat" alt="thayanequintanilha" /> </p>
 
 <img width="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> <span>Mais sobre mim</span>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/02/49/ef/0249efe4cc8e3c20094fc2d20aa58912.gif">
+<img align="right" alt="coding" width="400" margin="20" src="https://i.pinimg.com/originals/02/49/ef/0249efe4cc8e3c20094fc2d20aa58912.gif">
 
 ```kotlin
 const Thayane = {
@@ -18,8 +18,12 @@ const Thayane = {
  languages: ["Javascript", "React", "NodeJs", "Typescript"],
 }
 ```
+
 <br>
 <br>
+<br>
+<br>
+
 <table>
  <thead>
   <tr>
